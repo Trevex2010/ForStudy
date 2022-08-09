@@ -1,2 +1,2 @@
 # ForStudy
-!!!cHello Artem !!!
+!!! Hello Artem !!!
